@@ -4,7 +4,7 @@ import { addFavorite, removeFavorite } from "../redux/slices/movieSlice";
 import Modal from "react-modal";
 import axios from "axios";
 
-const API_KEY = "c31f9530";
+const API_KEY = "9ad081d1";
 const YOUTUBE_API_KEY = "AIzaSyBt0M9-ZWBuERFf2X1_vEcRdsgePbaLjC8"; // Replace with a valid key
 
 const DEFAULT_MOVIES = [
